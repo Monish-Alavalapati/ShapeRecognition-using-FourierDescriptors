@@ -12,7 +12,7 @@ This MATLAB project focuses on shape recognition using Fourier descriptors. Four
 
 ## Prerequisites
 
-To run this project, ensure that you have MATLAB installed on your machine. The project has been tested on MATLAB version X.X, and it is recommended to use a similar or later version.
+To run this project, ensure that you have MATLAB installed on your machine. The project has been tested on MATLAB version R2023b, and it is recommended to use a similar or later version.
 
 ## Getting Started
 
@@ -32,17 +32,9 @@ To run this project, ensure that you have MATLAB installed on your machine. The 
 
 4. **Follow the on-screen instructions to input the shape data and observe the recognition results.**
 
-## Project Structure
-
-The project is organized into the following directories:
-
-- **src:** Contains the source code for the shape recognition algorithm.
-- **data:** Stores sample data for testing the algorithm.
-- **results:** Holds the results obtained from the recognition process.
-
 ## Usage
 
-Modify the input data or incorporate your own dataset for shape recognition by editing the necessary files in the `data` directory. Customize the recognition algorithm or extend the functionality by modifying the source code in the `src` directory.
+Modify the input data or incorporate your own dataset for shape recognition by editing the necessary files in the data . Customize the recognition algorithm or extend the functionality by modifying the source code in the source code .
 
 ## Contributing
 
