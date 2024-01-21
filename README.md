@@ -27,13 +27,10 @@ To run this project, ensure that you have MATLAB installed on your machine. The 
 3. **Run the main script:**
 
     ```matlab
-    run main_script.m
+    run main_script.m or run final_main_script.m
     ```
 According to the use case, you can choose either main_script.m or final_main_script.m . final_main_script.m offers a little more flexibility when working with images of large data sets and is recommended to use for complex images.
-    
-    ```matlab
-    run final_main_script.m
-    ```
+
 4. **Follow the on-screen instructions to input the shape data and observe the recognition results.**
 
 ## Usage
