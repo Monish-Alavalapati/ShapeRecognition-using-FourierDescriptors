@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE), making it open and fr
 
 ## Acknowledgments
 
-- Special thanks to [Author Name] for their contributions to the project.
+- Special thanks to @unworld11 for their contributions to the project.
 
 Feel free to contact the project maintainers for any questions or concerns.
 
